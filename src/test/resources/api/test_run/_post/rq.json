@@ -1,0 +1,6 @@
+{
+  "name": "${projectName}",
+  "startedAt": "${startedAt}",
+  "status": "IN_PROGRESS",
+  "framework": "testng"
+}

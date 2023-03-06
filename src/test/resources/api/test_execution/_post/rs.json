@@ -1,0 +1,10 @@
+{
+  "id": "regex:[\\d]",
+  "name": "${projectName}",
+  "className": "com.aska.zebraTests",
+  "methodName": "zebraAgentTest()",
+  "argumentsIndex": 0,
+  "startedAt": "${startedAt}",
+  "maintainer": "anonymous",
+  "result": "IN_PROGRESS"
+}

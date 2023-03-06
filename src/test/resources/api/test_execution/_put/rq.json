@@ -1,0 +1,5 @@
+{
+  "result": "${result}",
+  "reason": "NullPointerException: bla bla bla",
+  "endedAt": "${finishedAt}"
+}

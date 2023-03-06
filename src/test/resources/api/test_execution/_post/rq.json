@@ -1,0 +1,8 @@
+{
+  "name": "${projectName}",
+  "className": "com.aska.zebraTests",
+  "methodName": "zebraAgentTest()",
+  "argumentsIndex": 0,
+  "startedAt": "${startedAt}",
+  "maintainer": "${projectKey}"
+}

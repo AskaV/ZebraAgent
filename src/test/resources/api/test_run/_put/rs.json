@@ -1,0 +1,9 @@
+{
+  "id": "regex:[\\d]",
+  "uuid": "type:String",
+  "name": "${projectName}",
+  "status": "type:String",
+  "startedAt": "${startedAt}",
+  "endedAt": "${finishedAt}",
+  "framework": "testng"
+}
