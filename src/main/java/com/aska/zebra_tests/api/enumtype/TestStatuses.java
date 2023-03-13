@@ -1,4 +1,4 @@
-package com.aska.zebraTests.api.enumtype;
+package com.aska.zebra_tests.api.enumtype;
 
 public enum TestStatuses {
 

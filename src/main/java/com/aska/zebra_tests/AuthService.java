@@ -1,7 +1,7 @@
-package com.aska.zebraTests;
+package com.aska.zebra_tests;
 
-import com.aska.zebraTests.api.enumtype.HTTPStatusCodeType;
-import com.aska.zebraTests.api.methods.PostAuthenticationMethod;
+import com.aska.zebra_tests.api.enumtype.HTTPStatusCodeType;
+import com.aska.zebra_tests.api.methods.PostAuthenticationMethod;
 import io.restassured.path.json.JsonPath;
 
 public class AuthService {

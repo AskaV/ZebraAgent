@@ -1,4 +1,4 @@
-package com.aska.zebraTests.api.methods;
+package com.aska.zebra_tests.api.methods;
 
 import com.qaprosoft.carina.core.foundation.utils.R;
 

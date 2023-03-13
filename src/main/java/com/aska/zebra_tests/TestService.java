@@ -1,8 +1,8 @@
-package com.aska.zebraTests;
+package com.aska.zebra_tests;
 import api.ReportingService;
 import api.ResponseService;
-import com.aska.zebraTests.api.enumtype.*;
-import com.aska.zebraTests.api.methods.*;
+import com.aska.zebra_tests.api.enumtype.*;
+import com.aska.zebra_tests.api.methods.*;
 
 public class TestService {
 

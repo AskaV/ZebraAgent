@@ -1,4 +1,4 @@
-package com.aska.zebraTests;
+package com.aska.zebra_tests;
 
 public class JsonConstant {
     public static final String AUTH_TOKEN = "authToken";

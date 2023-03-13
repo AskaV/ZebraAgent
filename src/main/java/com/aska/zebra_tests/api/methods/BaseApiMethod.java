@@ -1,6 +1,6 @@
-package com.aska.zebraTests.api.methods;
+package com.aska.zebra_tests.api.methods;
 
-import com.aska.zebraTests.AuthService;
+import com.aska.zebra_tests.AuthService;
 import com.qaprosoft.carina.core.foundation.api.AbstractApiMethodV2;
 
 import java.util.Properties;

@@ -1,6 +1,6 @@
 package api;
 
-import com.aska.zebraTests.JsonConstant;
+import com.aska.zebra_tests.JsonConstant;
 import io.restassured.path.json.JsonPath;
 
 public class ResponseService {

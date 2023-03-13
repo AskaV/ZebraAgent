@@ -1,9 +1,9 @@
-package com.aska.zebraAgent;
+package com.aska.zebra_agent;
 
 import api.ReportingService;
-import com.aska.zebraTests.AuthService;
-import com.aska.zebraTests.TestService;
-import com.aska.zebraTests.api.enumtype.TestStatuses;
+import com.aska.zebra_tests.AuthService;
+import com.aska.zebra_tests.TestService;
+import com.aska.zebra_tests.api.enumtype.TestStatuses;
 import com.qaprosoft.carina.core.foundation.utils.ownership.MethodOwner;
 
 import org.slf4j.Logger;

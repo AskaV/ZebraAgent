@@ -1,6 +1,6 @@
-package com.aska.zebraTests;
+package com.aska.zebra_tests;
 
-import com.aska.zebraTests.api.enumtype.HTTPStatusCodeType;
+import com.aska.zebra_tests.api.enumtype.HTTPStatusCodeType;
 import com.qaprosoft.carina.core.foundation.api.AbstractApiMethodV2;
 import io.restassured.response.Response;
 import org.skyscreamer.jsonassert.JSONCompareMode;
